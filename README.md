@@ -1,1 +1,1 @@
-This is test project with hero admin panel!
+Hero admin panel with react & redux
